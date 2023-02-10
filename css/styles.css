@@ -1,0 +1,35 @@
+body{background-color: antiquewhite;}
+
+img:hover{
+    background-color: gold;
+}s
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+#heading{ 
+    color: #66BFBF;
+    font-size: 50px; font: bold;
+}
+
+h3{
+    color: #66BFBF;
+}
+.pizza{
+    background-color: paleturquoise;
+}
+.burger{
+    background-color: peru;
+}
+.spag{
+    background-color: palevioletred;
+}
+.circular{
+    border-radius: 100%;
+}
+    
